@@ -1,1 +1,6 @@
 D:\ProjectGit\CSharpInDepth\CSharpInDepth\ChapterOne\bin\Debug\ChapterOne.exe.config
+D:\ProjectGit\CSharpInDepth\CSharpInDepth\ChapterOne\bin\Debug\ChapterOne.exe
+D:\ProjectGit\CSharpInDepth\CSharpInDepth\ChapterOne\bin\Debug\ChapterOne.pdb
+D:\ProjectGit\CSharpInDepth\CSharpInDepth\ChapterOne\obj\Debug\ChapterOne.csprojResolveAssemblyReference.cache
+D:\ProjectGit\CSharpInDepth\CSharpInDepth\ChapterOne\obj\Debug\ChapterOne.exe
+D:\ProjectGit\CSharpInDepth\CSharpInDepth\ChapterOne\obj\Debug\ChapterOne.pdb

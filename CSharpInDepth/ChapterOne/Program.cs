@@ -10,6 +10,7 @@ namespace ChapterOne
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("haha");
         }
     }
 }
